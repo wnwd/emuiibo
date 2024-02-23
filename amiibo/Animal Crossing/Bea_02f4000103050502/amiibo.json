@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 62466,
+    "model_number": 773,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Bea",
+  "uuid": [
+    172,
+    59,
+    163,
+    101,
+    209,
+    161,
+    28,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

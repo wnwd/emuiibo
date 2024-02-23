@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 4,
+    "figure_type": 1,
+    "game_character_id": 51209,
+    "model_number": 660,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Diddy Kong - Golf",
+  "uuid": [
+    188,
+    221,
+    47,
+    34,
+    191,
+    24,
+    35,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

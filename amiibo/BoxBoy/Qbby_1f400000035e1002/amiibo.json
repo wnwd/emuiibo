@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 16415,
+    "model_number": 862,
+    "series": 16
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Qbby",
+  "uuid": [
+    49,
+    230,
+    254,
+    10,
+    231,
+    205,
+    222,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 3,
+    "figure_type": 1,
+    "game_character_id": 51209,
+    "model_number": 659,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Diddy Kong - Tennis",
+  "uuid": [
+    180,
+    140,
+    30,
+    248,
+    129,
+    171,
+    31,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

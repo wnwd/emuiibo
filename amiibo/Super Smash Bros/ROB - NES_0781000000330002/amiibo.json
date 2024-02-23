@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 33031,
+    "model_number": 51,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "R.O.B. - NES",
+  "uuid": [
+    74,
+    158,
+    165,
+    83,
+    37,
+    164,
+    70,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

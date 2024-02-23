@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 0,
+    "model_number": 569,
+    "series": 6
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "8-Bit Mario Modern Color",
+  "uuid": [
+    45,
+    49,
+    119,
+    36,
+    231,
+    73,
+    178,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

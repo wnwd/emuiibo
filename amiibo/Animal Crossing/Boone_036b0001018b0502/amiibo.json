@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 27395,
+    "model_number": 395,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Boone",
+  "uuid": [
+    241,
+    44,
+    42,
+    45,
+    235,
+    90,
+    55,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

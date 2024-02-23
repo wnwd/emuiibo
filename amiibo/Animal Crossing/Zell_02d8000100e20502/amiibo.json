@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 55298,
+    "model_number": 226,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Zell",
+  "uuid": [
+    112,
+    97,
+    58,
+    195,
+    22,
+    197,
+    209,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

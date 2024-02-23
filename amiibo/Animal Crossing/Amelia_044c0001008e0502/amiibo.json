@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 19460,
+    "model_number": 142,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Amelia",
+  "uuid": [
+    248,
+    193,
+    55,
+    52,
+    113,
+    8,
+    95,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 49925,
+    "model_number": 896,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Dark Samus",
+  "uuid": [
+    96,
+    22,
+    255,
+    141,
+    11,
+    142,
+    167,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

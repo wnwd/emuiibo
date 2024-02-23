@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 20740,
+    "model_number": 350,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Frank",
+  "uuid": [
+    39,
+    79,
+    37,
+    199,
+    137,
+    126,
+    223,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 27394,
+    "model_number": 233,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Kitty",
+  "uuid": [
+    239,
+    1,
+    104,
+    202,
+    34,
+    137,
+    231,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 4,
+    "figure_type": 1,
+    "game_character_id": 53257,
+    "model_number": 700,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Metal Mario - Golf",
+  "uuid": [
+    7,
+    64,
+    134,
+    71,
+    225,
+    191,
+    98,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

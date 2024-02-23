@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 36353,
+    "model_number": 585,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Resetti",
+  "uuid": [
+    150,
+    198,
+    202,
+    182,
+    165,
+    194,
+    147,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

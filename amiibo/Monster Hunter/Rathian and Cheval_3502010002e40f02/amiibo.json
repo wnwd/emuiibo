@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 0,
+    "game_character_id": 565,
+    "model_number": 740,
+    "series": 15
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Rathian and Cheval",
+  "uuid": [
+    46,
+    202,
+    205,
+    192,
+    225,
+    36,
+    14,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

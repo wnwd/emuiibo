@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 2337,
+    "model_number": 880,
+    "series": 18
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Tiki",
+  "uuid": [
+    250,
+    97,
+    149,
+    169,
+    148,
+    84,
+    232,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

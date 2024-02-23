@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 37377,
+    "model_number": 269,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Blathers",
+  "uuid": [
+    17,
+    80,
+    105,
+    205,
+    222,
+    45,
+    20,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

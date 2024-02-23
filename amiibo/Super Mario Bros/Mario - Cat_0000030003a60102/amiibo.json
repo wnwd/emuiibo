@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 3,
+    "figure_type": 0,
+    "game_character_id": 0,
+    "model_number": 934,
+    "series": 1
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Mario - Cat",
+  "uuid": [
+    198,
+    159,
+    201,
+    191,
+    183,
+    188,
+    114,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

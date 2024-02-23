@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 2,
+    "game_character_id": 768,
+    "model_number": 66,
+    "series": 3
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Pink Yarn Yoshi",
+  "uuid": [
+    143,
+    72,
+    17,
+    138,
+    109,
+    30,
+    228,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 34820,
+    "model_number": 152,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Pancetti",
+  "uuid": [
+    170,
+    116,
+    180,
+    90,
+    41,
+    144,
+    19,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

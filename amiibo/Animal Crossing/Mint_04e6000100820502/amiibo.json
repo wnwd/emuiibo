@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 58884,
+    "model_number": 130,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Mint",
+  "uuid": [
+    209,
+    20,
+    140,
+    236,
+    233,
+    74,
+    102,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

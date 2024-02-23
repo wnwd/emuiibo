@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 57604,
+    "model_number": 446,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Nibbles",
+  "uuid": [
+    155,
+    142,
+    128,
+    34,
+    38,
+    91,
+    13,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

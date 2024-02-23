@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 3,
+    "figure_type": 0,
+    "game_character_id": 257,
+    "model_number": 1044,
+    "series": 9
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Zelda & Loftwing",
+  "uuid": [
+    64,
+    219,
+    116,
+    174,
+    249,
+    240,
+    252,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

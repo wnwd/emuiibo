@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 44803,
+    "model_number": 300,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Colton",
+  "uuid": [
+    57,
+    67,
+    100,
+    23,
+    243,
+    12,
+    32,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 1,
+    "model_number": 892,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Young Link",
+  "uuid": [
+    60,
+    119,
+    116,
+    45,
+    229,
+    52,
+    12,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

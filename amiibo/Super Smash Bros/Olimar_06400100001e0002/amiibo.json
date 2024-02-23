@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 0,
+    "game_character_id": 16390,
+    "model_number": 30,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Olimar",
+  "uuid": [
+    135,
+    108,
+    130,
+    5,
+    74,
+    190,
+    229,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

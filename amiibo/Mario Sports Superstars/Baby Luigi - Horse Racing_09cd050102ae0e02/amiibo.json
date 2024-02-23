@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 5,
+    "figure_type": 1,
+    "game_character_id": 52489,
+    "model_number": 686,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Baby Luigi - Horse Racing",
+  "uuid": [
+    97,
+    36,
+    181,
+    220,
+    63,
+    177,
+    88,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

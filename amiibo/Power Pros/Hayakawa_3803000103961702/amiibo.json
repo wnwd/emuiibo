@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 824,
+    "model_number": 918,
+    "series": 23
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Hayakawa",
+  "uuid": [
+    69,
+    28,
+    21,
+    196,
+    167,
+    38,
+    122,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

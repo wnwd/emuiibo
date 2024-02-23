@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 13570,
+    "model_number": 132,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Midge",
+  "uuid": [
+    225,
+    232,
+    7,
+    45,
+    36,
+    43,
+    169,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

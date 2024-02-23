@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 2,
+    "figure_type": 1,
+    "game_character_id": 53257,
+    "model_number": 698,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Metal Mario - Baseball",
+  "uuid": [
+    239,
+    106,
+    57,
+    192,
+    77,
+    113,
+    49,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

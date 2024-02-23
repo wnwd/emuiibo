@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 16435,
+    "model_number": 50,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Pac-Man",
+  "uuid": [
+    20,
+    217,
+    193,
+    99,
+    62,
+    37,
+    144,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

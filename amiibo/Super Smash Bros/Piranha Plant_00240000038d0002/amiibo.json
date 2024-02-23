@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 9216,
+    "model_number": 909,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Piranha Plant",
+  "uuid": [
+    216,
+    57,
+    39,
+    178,
+    155,
+    207,
+    147,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

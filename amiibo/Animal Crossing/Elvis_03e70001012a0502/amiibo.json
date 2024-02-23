@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 59139,
+    "model_number": 298,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Elvis",
+  "uuid": [
+    243,
+    132,
+    174,
+    141,
+    171,
+    209,
+    38,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

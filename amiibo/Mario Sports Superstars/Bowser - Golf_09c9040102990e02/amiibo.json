@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 4,
+    "figure_type": 1,
+    "game_character_id": 51465,
+    "model_number": 665,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Bowser - Golf",
+  "uuid": [
+    167,
+    137,
+    127,
+    52,
+    68,
+    198,
+    102,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 5,
+    "figure_type": 1,
+    "game_character_id": 51977,
+    "model_number": 676,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Boo - Horse Racing",
+  "uuid": [
+    198,
+    82,
+    67,
+    76,
+    31,
+    180,
+    88,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 39940,
+    "model_number": 320,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Genji",
+  "uuid": [
+    92,
+    218,
+    177,
+    97,
+    197,
+    245,
+    27,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

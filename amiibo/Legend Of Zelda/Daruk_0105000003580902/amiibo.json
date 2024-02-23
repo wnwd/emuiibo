@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 1281,
+    "model_number": 856,
+    "series": 9
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Daruk",
+  "uuid": [
+    219,
+    198,
+    181,
+    55,
+    38,
+    160,
+    49,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

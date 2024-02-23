@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 3,
+    "game_character_id": 512,
+    "model_number": 925,
+    "series": 255
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Peach - Power Up Band",
+  "uuid": [
+    233,
+    11,
+    214,
+    162,
+    229,
+    18,
+    249,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

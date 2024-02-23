@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 4,
+    "figure_type": 1,
+    "game_character_id": 52489,
+    "model_number": 685,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Baby Luigi - Golf",
+  "uuid": [
+    238,
+    36,
+    147,
+    190,
+    43,
+    25,
+    40,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

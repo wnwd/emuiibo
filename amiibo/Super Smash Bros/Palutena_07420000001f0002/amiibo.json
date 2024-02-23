@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 16903,
+    "model_number": 31,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Palutena",
+  "uuid": [
+    240,
+    171,
+    98,
+    173,
+    236,
+    193,
+    228,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

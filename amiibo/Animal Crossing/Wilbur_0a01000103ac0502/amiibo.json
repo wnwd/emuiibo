@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 266,
+    "model_number": 940,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Wilbur",
+  "uuid": [
+    155,
+    218,
+    101,
+    145,
+    91,
+    5,
+    170,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

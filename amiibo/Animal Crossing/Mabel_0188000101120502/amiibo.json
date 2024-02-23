@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 34817,
+    "model_number": 274,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Mabel",
+  "uuid": [
+    7,
+    247,
+    236,
+    182,
+    12,
+    159,
+    132,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

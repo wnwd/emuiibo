@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 2,
+    "figure_type": 1,
+    "game_character_id": 51721,
+    "model_number": 668,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Bowser Jr. - Baseball",
+  "uuid": [
+    8,
+    93,
+    9,
+    123,
+    187,
+    238,
+    163,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

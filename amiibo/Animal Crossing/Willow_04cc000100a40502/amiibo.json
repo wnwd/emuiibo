@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 52228,
+    "model_number": 164,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Willow",
+  "uuid": [
+    196,
+    158,
+    129,
+    188,
+    202,
+    231,
+    196,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

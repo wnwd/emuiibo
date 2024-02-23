@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 0,
+    "game_character_id": 54,
+    "model_number": 866,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Cloud - Player 2",
+  "uuid": [
+    190,
+    71,
+    34,
+    154,
+    25,
+    153,
+    179,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

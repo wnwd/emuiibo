@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 3,
+    "figure_type": 1,
+    "game_character_id": 53001,
+    "model_number": 694,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Rosalina - Tennis",
+  "uuid": [
+    154,
+    57,
+    45,
+    205,
+    243,
+    64,
+    70,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

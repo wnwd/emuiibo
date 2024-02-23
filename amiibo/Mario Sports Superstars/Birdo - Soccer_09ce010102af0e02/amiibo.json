@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 1,
+    "game_character_id": 52745,
+    "model_number": 687,
+    "series": 14
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Birdo - Soccer",
+  "uuid": [
+    52,
+    190,
+    183,
+    204,
+    36,
+    171,
+    22,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

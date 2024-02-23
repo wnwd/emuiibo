@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 1,
+    "game_character_id": 43009,
+    "model_number": 382,
+    "series": 5
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Redd - Shirt",
+  "uuid": [
+    69,
+    238,
+    239,
+    136,
+    77,
+    70,
+    229,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

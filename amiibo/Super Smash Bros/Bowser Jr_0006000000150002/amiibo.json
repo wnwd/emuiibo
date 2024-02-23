@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 1536,
+    "model_number": 21,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Bowser Jr.",
+  "uuid": [
+    125,
+    240,
+    115,
+    104,
+    163,
+    135,
+    206,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

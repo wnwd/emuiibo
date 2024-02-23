@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 1,
+    "figure_type": 0,
+    "game_character_id": 1288,
+    "model_number": 910,
+    "series": 4
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Octoling Girl",
+  "uuid": [
+    235,
+    233,
+    93,
+    136,
+    48,
+    184,
+    161,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 16394,
+    "model_number": 1053,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 5,
+    "m": 8,
+    "y": 2023
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Min Min",
+  "uuid": [
+    186,
+    165,
+    230,
+    179,
+    35,
+    220,
+    223,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

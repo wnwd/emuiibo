@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Rosalina - Golf",
   "uuid": [
-    203,
-    138,
-    244,
-    184,
-    244,
-    61,
-    143,
+    168,
+    157,
+    69,
+    46,
+    19,
+    140,
+    118,
     0,
     0,
     0

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Diddy Kong - Horse Racing",
   "uuid": [
-    103,
-    45,
-    108,
-    22,
-    233,
-    93,
-    188,
+    152,
+    187,
+    184,
+    169,
+    4,
+    57,
+    16,
     0,
     0,
     0

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Isabelle - Winter Outfit",
   "uuid": [
-    170,
-    249,
-    143,
-    99,
-    89,
-    150,
-    247,
+    153,
+    198,
+    157,
+    241,
+    192,
+    81,
+    155,
     0,
     0,
     0

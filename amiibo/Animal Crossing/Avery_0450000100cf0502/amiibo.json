@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Avery",
   "uuid": [
-    17,
-    21,
-    201,
-    139,
-    24,
-    74,
-    138,
+    96,
+    212,
+    169,
+    183,
+    114,
+    171,
+    232,
     0,
     0,
     0

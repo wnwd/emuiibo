@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 0
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Corrin - Player 2",
   "uuid": [
-    248,
-    242,
-    226,
-    112,
-    21,
-    225,
-    174,
+    137,
+    132,
+    117,
+    81,
+    136,
+    28,
+    67,
     0,
     0,
     0

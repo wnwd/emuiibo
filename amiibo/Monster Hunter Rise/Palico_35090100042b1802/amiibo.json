@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 24
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Palico",
   "uuid": [
-    241,
-    253,
-    119,
-    16,
-    110,
-    238,
-    6,
+    239,
+    80,
+    131,
+    44,
+    124,
+    233,
+    196,
     0,
     0,
     0

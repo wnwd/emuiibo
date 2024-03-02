@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Tasha",
   "uuid": [
-    19,
-    110,
-    46,
-    246,
-    99,
-    248,
-    136,
+    104,
+    175,
+    240,
+    220,
+    96,
+    79,
+    152,
     0,
     0,
     0

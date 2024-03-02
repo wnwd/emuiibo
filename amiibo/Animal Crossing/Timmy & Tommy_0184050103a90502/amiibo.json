@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Timmy & Tommy",
   "uuid": [
-    104,
-    214,
-    151,
-    238,
-    90,
-    176,
-    135,
+    186,
+    79,
+    153,
+    36,
+    252,
+    113,
+    241,
     0,
     0,
     0

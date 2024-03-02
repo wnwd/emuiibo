@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 4
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Callie",
   "uuid": [
-    255,
-    212,
-    36,
-    31,
-    105,
-    112,
-    15,
+    150,
+    203,
+    66,
+    95,
+    243,
+    96,
+    89,
     0,
     0,
     0

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Sable",
   "uuid": [
-    64,
-    122,
-    218,
-    77,
-    151,
-    1,
-    68,
+    104,
+    101,
+    249,
+    130,
+    50,
+    246,
+    108,
     0,
     0,
     0

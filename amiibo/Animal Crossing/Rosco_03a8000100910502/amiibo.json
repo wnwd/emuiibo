@@ -1,20 +1,20 @@
 {
   "first_write_date": {
-    "d": 5,
+    "y": 2023,
     "m": 8,
-    "y": 2023
+    "d": 5
   },
   "id": {
+    "game_character_id": 43011,
     "character_variant": 0,
     "figure_type": 1,
-    "game_character_id": 43011,
     "model_number": 145,
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
+    "y": 2023,
     "m": 8,
-    "y": 2023
+    "d": 5
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Rosco",
@@ -30,6 +30,7 @@
     0,
     0
   ],
+  "use_random_uuid": false,
   "version": 0,
   "write_counter": 0
 }

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Diddy Kong - Golf",
   "uuid": [
-    188,
-    221,
-    47,
-    34,
-    191,
-    24,
-    35,
+    53,
+    244,
+    86,
+    192,
+    219,
+    33,
+    52,
     0,
     0,
     0

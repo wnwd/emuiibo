@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 21
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Mega Man",
   "uuid": [
-    216,
-    83,
-    55,
-    9,
-    241,
-    27,
-    241,
+    4,
+    104,
+    69,
+    0,
+    215,
+    13,
+    40,
     0,
     0,
     0

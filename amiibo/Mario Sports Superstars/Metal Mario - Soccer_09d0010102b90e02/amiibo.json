@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Metal Mario - Soccer",
   "uuid": [
-    186,
-    149,
-    239,
-    252,
-    24,
-    115,
-    45,
+    168,
+    157,
+    178,
+    70,
+    84,
+    56,
+    77,
     0,
     0,
     0

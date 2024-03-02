@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 3,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Tommy - Suit",
   "uuid": [
-    125,
-    213,
-    61,
-    128,
-    99,
-    185,
-    112,
+    142,
+    143,
+    206,
+    54,
+    30,
+    135,
+    142,
     0,
     0,
     0

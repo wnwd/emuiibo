@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 255
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Peach - Power Up Band",
   "uuid": [
-    233,
-    11,
-    214,
-    162,
-    229,
-    18,
-    249,
+    216,
+    147,
+    67,
+    106,
+    62,
+    70,
+    215,
     0,
     0,
     0

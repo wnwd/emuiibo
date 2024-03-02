@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Birdo - Horse Racing",
   "uuid": [
-    85,
-    14,
-    41,
-    16,
-    225,
-    153,
-    204,
+    86,
+    61,
+    173,
+    249,
+    231,
+    171,
+    191,
     0,
     0,
     0

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Bowser Jr. - Baseball",
   "uuid": [
-    8,
-    93,
-    9,
-    123,
-    187,
-    238,
-    163,
+    227,
+    191,
+    192,
+    196,
+    227,
+    76,
+    130,
     0,
     0,
     0

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Boo - Horse Racing",
   "uuid": [
-    198,
-    82,
-    67,
-    76,
-    31,
-    180,
-    88,
+    188,
+    85,
+    69,
+    22,
+    199,
+    38,
+    150,
     0,
     0,
     0

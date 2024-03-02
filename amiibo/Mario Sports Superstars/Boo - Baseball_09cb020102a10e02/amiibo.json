@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Boo - Baseball",
   "uuid": [
-    216,
-    202,
-    167,
-    3,
-    35,
-    79,
-    37,
+    158,
+    70,
+    91,
+    130,
+    249,
+    206,
+    239,
     0,
     0,
     0

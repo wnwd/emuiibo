@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Yoshi - Golf",
   "uuid": [
-    79,
-    90,
-    222,
-    94,
-    75,
-    42,
-    116,
+    250,
+    231,
+    127,
+    234,
+    7,
+    233,
+    237,
     0,
     0,
     0

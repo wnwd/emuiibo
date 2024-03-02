@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 3,
@@ -12,20 +12,20 @@
     "series": 4
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Inkling Squid",
   "uuid": [
-    233,
-    246,
-    109,
-    200,
-    88,
-    27,
-    208,
+    14,
+    42,
+    174,
+    15,
+    215,
+    197,
+    45,
     0,
     0,
     0

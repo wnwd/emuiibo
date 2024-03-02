@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 3
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Light Blue Yarn Yoshi",
   "uuid": [
-    13,
-    50,
-    106,
-    246,
-    31,
-    106,
-    79,
+    32,
+    199,
+    94,
+    68,
+    197,
+    33,
+    226,
     0,
     0,
     0

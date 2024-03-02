@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 9
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Toon Zelda - The Wind Waker",
   "uuid": [
-    6,
-    126,
-    9,
-    27,
-    162,
-    151,
-    217,
+    150,
+    85,
+    222,
+    179,
+    81,
+    78,
+    80,
     0,
     0,
     0

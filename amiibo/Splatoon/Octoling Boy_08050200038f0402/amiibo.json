@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 4
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Octoling Boy",
   "uuid": [
-    46,
     4,
-    26,
-    80,
-    235,
-    99,
-    15,
+    222,
+    169,
+    171,
+    122,
+    30,
+    49,
     0,
     0,
     0

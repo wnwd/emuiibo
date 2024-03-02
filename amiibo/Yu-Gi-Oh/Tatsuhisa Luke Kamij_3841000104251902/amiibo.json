@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 25
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Tatsuhisa “Luke” Kamijō",
   "uuid": [
+    86,
+    40,
+    119,
+    80,
+    44,
     207,
-    68,
-    45,
-    175,
-    42,
-    160,
-    9,
+    209,
     0,
     0,
     0

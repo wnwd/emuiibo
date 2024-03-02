@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Baby Mario - Baseball",
   "uuid": [
-    254,
-    88,
-    158,
-    141,
-    235,
-    19,
-    179,
+    191,
+    80,
+    160,
+    168,
+    148,
+    23,
+    216,
     0,
     0,
     0

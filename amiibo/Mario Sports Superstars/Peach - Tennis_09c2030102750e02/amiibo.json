@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 3,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Peach - Tennis",
   "uuid": [
-    0,
-    224,
-    78,
-    28,
-    135,
-    204,
-    151,
+    219,
+    46,
+    112,
+    249,
+    35,
+    2,
+    254,
     0,
     0,
     0

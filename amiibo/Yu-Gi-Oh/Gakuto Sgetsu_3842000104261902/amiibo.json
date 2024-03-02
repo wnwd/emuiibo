@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 25
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Gakuto Sōgetsu",
   "uuid": [
-    183,
-    220,
-    18,
-    108,
-    101,
-    131,
-    87,
+    219,
+    216,
+    149,
+    86,
+    56,
+    145,
+    70,
     0,
     0,
     0

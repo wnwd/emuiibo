@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 0
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Mega Man - Gold Edition",
   "uuid": [
-    106,
-    173,
-    106,
-    128,
-    14,
-    137,
-    111,
+    240,
+    48,
+    250,
+    35,
+    195,
+    73,
+    116,
     0,
     0,
     0

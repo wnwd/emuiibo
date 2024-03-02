@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 4
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Inkling Girl",
   "uuid": [
-    238,
-    152,
-    17,
-    168,
-    121,
-    80,
-    105,
+    147,
+    133,
+    241,
+    115,
+    249,
+    21,
+    234,
     0,
     0,
     0

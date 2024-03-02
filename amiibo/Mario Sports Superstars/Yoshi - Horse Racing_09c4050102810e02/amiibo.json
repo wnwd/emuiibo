@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Yoshi - Horse Racing",
   "uuid": [
-    39,
-    147,
-    138,
-    210,
-    66,
-    57,
-    198,
+    222,
+    254,
+    93,
+    58,
+    123,
+    58,
+    101,
     0,
     0,
     0

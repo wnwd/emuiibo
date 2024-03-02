@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 10
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Shovel Knight",
   "uuid": [
-    20,
-    119,
-    4,
-    115,
-    134,
-    105,
-    101,
+    193,
+    181,
+    122,
+    158,
+    71,
+    2,
+    152,
     0,
     0,
     0

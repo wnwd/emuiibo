@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 1
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Diddy Kong",
   "uuid": [
-    245,
-    118,
-    41,
-    246,
-    48,
-    193,
-    81,
+    242,
+    1,
+    231,
+    100,
+    27,
+    129,
+    218,
     0,
     0,
     0

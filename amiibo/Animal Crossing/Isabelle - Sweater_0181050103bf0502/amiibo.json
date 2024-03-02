@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 5
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Isabelle - Sweater",
   "uuid": [
-    149,
-    152,
-    98,
-    51,
-    119,
-    175,
-    187,
+    138,
+    121,
+    35,
+    241,
+    138,
+    87,
+    225,
     0,
     0,
     0

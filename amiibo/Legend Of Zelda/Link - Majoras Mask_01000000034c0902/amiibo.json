@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 9
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Link - Majora's Mask",
   "uuid": [
-    127,
-    45,
-    112,
-    77,
-    75,
-    201,
-    72,
+    150,
+    224,
+    121,
+    8,
+    174,
+    60,
+    71,
     0,
     0,
     0

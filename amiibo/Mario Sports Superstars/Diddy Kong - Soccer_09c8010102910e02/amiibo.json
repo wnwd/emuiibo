@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Diddy Kong - Soccer",
   "uuid": [
-    3,
-    49,
-    13,
-    155,
-    48,
-    247,
-    179,
+    122,
+    236,
+    114,
+    15,
+    101,
+    117,
+    51,
     0,
     0,
     0

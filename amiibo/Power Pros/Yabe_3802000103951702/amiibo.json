@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 2,
+    "m": 3,
+    "y": 2024
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 1,
+    "game_character_id": 568,
+    "model_number": 917,
+    "series": 23
+  },
+  "last_write_date": {
+    "d": 2,
+    "m": 3,
+    "y": 2024
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Yabe",
+  "uuid": [
+    17,
+    165,
+    82,
+    149,
+    4,
+    224,
+    4,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

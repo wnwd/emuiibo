@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 1
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Donkey Kong",
   "uuid": [
-    106,
-    59,
-    195,
-    207,
-    119,
-    167,
-    186,
+    171,
+    67,
+    196,
+    29,
+    246,
+    12,
+    0,
     0,
     0,
     0

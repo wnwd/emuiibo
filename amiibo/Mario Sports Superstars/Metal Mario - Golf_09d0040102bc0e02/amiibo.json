@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Metal Mario - Golf",
   "uuid": [
-    7,
-    64,
-    134,
-    71,
-    225,
-    191,
-    98,
+    204,
+    215,
+    18,
+    176,
+    48,
+    240,
+    184,
     0,
     0,
     0

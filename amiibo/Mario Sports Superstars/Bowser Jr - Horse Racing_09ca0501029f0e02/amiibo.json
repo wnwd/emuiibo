@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Bowser Jr. - Horse Racing",
   "uuid": [
-    182,
-    10,
-    62,
-    236,
-    73,
-    121,
-    41,
+    71,
+    59,
+    43,
+    83,
+    222,
+    11,
+    49,
     0,
     0,
     0

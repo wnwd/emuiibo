@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 15
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "One-Eyed Rathalos and Rider - Female",
   "uuid": [
-    243,
-    129,
-    26,
-    90,
-    185,
-    157,
-    202,
+    163,
+    103,
+    235,
+    16,
+    73,
+    21,
+    39,
     0,
     0,
     0

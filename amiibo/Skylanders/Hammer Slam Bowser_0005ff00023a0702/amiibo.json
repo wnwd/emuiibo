@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 255,
@@ -12,20 +12,20 @@
     "series": 7
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Hammer Slam Bowser",
   "uuid": [
-    209,
-    146,
-    206,
-    114,
-    224,
-    149,
-    26,
+    129,
+    157,
+    74,
+    227,
+    222,
+    96,
+    7,
     0,
     0,
     0

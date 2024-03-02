@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 2,
+    "m": 3,
+    "y": 2024
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 63,
+    "model_number": 1070,
+    "series": 0
+  },
+  "last_write_date": {
+    "d": 2,
+    "m": 3,
+    "y": 2024
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Sora",
+  "uuid": [
+    248,
+    87,
+    202,
+    140,
+    157,
+    153,
+    122,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

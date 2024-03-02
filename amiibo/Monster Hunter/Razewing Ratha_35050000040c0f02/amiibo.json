@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 15
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Razewing Ratha",
   "uuid": [
-    67,
-    253,
-    196,
-    245,
-    44,
-    60,
-    129,
+    216,
+    168,
+    122,
+    18,
+    248,
+    34,
+    197,
     0,
     0,
     0

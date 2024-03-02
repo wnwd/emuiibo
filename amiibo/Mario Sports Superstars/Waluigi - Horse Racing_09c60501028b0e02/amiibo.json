@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Waluigi - Horse Racing",
   "uuid": [
-    88,
-    150,
-    173,
-    162,
-    34,
-    38,
-    71,
+    201,
+    220,
+    183,
+    30,
+    99,
+    255,
+    118,
     0,
     0,
     0

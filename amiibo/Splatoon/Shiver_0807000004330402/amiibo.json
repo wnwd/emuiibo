@@ -1,0 +1,35 @@
+{
+  "first_write_date": {
+    "d": 2,
+    "m": 3,
+    "y": 2024
+  },
+  "id": {
+    "character_variant": 0,
+    "figure_type": 0,
+    "game_character_id": 1800,
+    "model_number": 1075,
+    "series": 4
+  },
+  "last_write_date": {
+    "d": 2,
+    "m": 3,
+    "y": 2024
+  },
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "name": "Shiver",
+  "uuid": [
+    29,
+    43,
+    49,
+    181,
+    224,
+    101,
+    187,
+    0,
+    0,
+    0
+  ],
+  "version": 0,
+  "write_counter": 0
+}

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Pink Gold Peach - Soccer",
   "uuid": [
-    17,
-    65,
-    130,
-    203,
-    124,
-    111,
-    0,
+    242,
+    129,
+    158,
+    112,
+    188,
+    87,
+    70,
     0,
     0,
     0

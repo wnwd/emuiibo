@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Peach - Baseball",
   "uuid": [
-    126,
-    6,
-    227,
-    166,
-    94,
-    0,
-    97,
+    89,
+    216,
+    218,
+    136,
+    204,
+    103,
+    231,
     0,
     0,
     0

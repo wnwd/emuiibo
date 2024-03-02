@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 5,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Mario - Horse Racing",
   "uuid": [
-    155,
-    60,
-    35,
-    120,
-    222,
-    234,
-    255,
+    163,
+    231,
+    52,
+    4,
+    169,
+    63,
+    187,
     0,
     0,
     0

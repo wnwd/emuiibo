@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Donkey Kong - Golf",
   "uuid": [
-    39,
-    20,
-    60,
-    152,
-    160,
-    93,
-    88,
+    12,
+    239,
+    66,
+    107,
+    153,
+    147,
+    73,
     0,
     0,
     0

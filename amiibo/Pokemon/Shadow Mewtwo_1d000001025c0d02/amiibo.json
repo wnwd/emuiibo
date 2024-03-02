@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 13
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Shadow Mewtwo",
   "uuid": [
-    56,
-    98,
-    173,
-    113,
-    4,
-    226,
-    204,
+    155,
+    43,
+    119,
+    231,
+    116,
+    60,
+    91,
     0,
     0,
     0

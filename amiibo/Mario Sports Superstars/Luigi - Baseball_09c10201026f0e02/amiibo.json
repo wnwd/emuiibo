@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Luigi - Baseball",
   "uuid": [
-    70,
-    222,
-    100,
-    226,
-    157,
-    95,
-    241,
+    78,
+    108,
+    76,
+    27,
+    182,
+    32,
+    154,
     0,
     0,
     0

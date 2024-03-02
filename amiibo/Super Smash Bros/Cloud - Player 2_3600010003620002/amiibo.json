@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 0
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Cloud - Player 2",
   "uuid": [
-    190,
-    71,
-    34,
-    154,
-    25,
-    153,
-    179,
+    70,
+    17,
+    189,
+    1,
+    105,
+    83,
+    85,
     0,
     0,
     0

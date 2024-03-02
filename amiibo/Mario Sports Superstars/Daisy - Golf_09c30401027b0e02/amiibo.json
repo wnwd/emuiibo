@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Daisy - Golf",
   "uuid": [
-    86,
-    132,
-    80,
-    145,
-    12,
-    51,
-    221,
+    91,
+    147,
+    144,
+    32,
+    105,
+    195,
+    95,
     0,
     0,
     0

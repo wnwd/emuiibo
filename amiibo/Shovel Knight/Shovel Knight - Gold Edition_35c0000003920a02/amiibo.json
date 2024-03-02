@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 10
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Shovel Knight - Gold Edition",
   "uuid": [
-    7,
-    86,
-    10,
-    29,
-    114,
-    113,
-    248,
+    83,
+    194,
+    156,
+    90,
+    121,
+    228,
+    17,
     0,
     0,
     0

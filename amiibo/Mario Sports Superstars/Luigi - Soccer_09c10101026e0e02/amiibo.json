@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Luigi - Soccer",
   "uuid": [
-    231,
-    131,
-    59,
-    44,
-    115,
-    158,
-    73,
+    65,
+    219,
+    246,
+    203,
+    94,
+    47,
+    47,
     0,
     0,
     0

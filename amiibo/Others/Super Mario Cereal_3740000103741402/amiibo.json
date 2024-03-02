@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 20
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Super Mario Cereal",
   "uuid": [
-    195,
-    9,
-    64,
-    115,
-    60,
-    62,
-    10,
+    209,
+    44,
+    98,
+    239,
+    243,
+    180,
+    47,
     0,
     0,
     0

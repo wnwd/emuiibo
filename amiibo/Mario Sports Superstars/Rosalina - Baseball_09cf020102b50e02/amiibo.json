@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Rosalina - Baseball",
   "uuid": [
-    91,
-    77,
-    131,
-    61,
-    47,
-    67,
-    19,
+    119,
+    71,
+    243,
+    31,
+    130,
+    245,
+    169,
     0,
     0,
     0

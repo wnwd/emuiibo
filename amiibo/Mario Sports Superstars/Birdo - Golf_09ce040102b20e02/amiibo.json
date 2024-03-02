@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Birdo - Golf",
   "uuid": [
-    208,
-    103,
-    14,
-    79,
-    197,
-    112,
-    98,
+    222,
+    9,
+    175,
+    154,
+    120,
+    255,
+    199,
     0,
     0,
     0

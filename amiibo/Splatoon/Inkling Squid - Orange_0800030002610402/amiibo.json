@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 3,
@@ -12,20 +12,20 @@
     "series": 4
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Inkling Squid - Orange",
   "uuid": [
-    66,
-    21,
-    190,
-    15,
-    227,
-    107,
-    175,
+    155,
+    161,
+    220,
+    146,
+    22,
+    78,
+    100,
     0,
     0,
     0

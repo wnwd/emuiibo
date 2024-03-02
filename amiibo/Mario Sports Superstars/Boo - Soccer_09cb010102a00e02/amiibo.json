@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 1,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Boo - Soccer",
   "uuid": [
-    89,
-    49,
-    11,
-    186,
-    222,
-    148,
-    8,
+    76,
+    231,
+    86,
+    53,
+    140,
+    65,
+    96,
     0,
     0,
     0

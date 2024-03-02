@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 4,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Baby Mario - Golf",
   "uuid": [
-    181,
-    249,
-    183,
-    208,
-    76,
-    76,
-    222,
+    109,
+    80,
+    201,
+    94,
+    15,
+    192,
+    101,
     0,
     0,
     0

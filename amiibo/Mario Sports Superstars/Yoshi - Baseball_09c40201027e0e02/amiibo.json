@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 2,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Yoshi - Baseball",
   "uuid": [
-    139,
-    229,
-    212,
-    207,
-    250,
-    223,
-    99,
+    122,
+    23,
+    224,
+    96,
+    218,
+    46,
+    15,
     0,
     0,
     0

@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 0,
@@ -12,20 +12,20 @@
     "series": 9
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Link - Ocarina of Time",
   "uuid": [
-    170,
-    189,
-    137,
-    208,
-    237,
-    89,
-    166,
+    60,
+    165,
+    47,
+    149,
+    83,
+    11,
+    8,
     0,
     0,
     0

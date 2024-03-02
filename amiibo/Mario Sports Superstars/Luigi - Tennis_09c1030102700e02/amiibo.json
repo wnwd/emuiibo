@@ -1,8 +1,8 @@
 {
   "first_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "id": {
     "character_variant": 3,
@@ -12,20 +12,20 @@
     "series": 14
   },
   "last_write_date": {
-    "d": 5,
-    "m": 8,
-    "y": 2023
+    "d": 2,
+    "m": 3,
+    "y": 2024
   },
   "mii_charinfo_file": "mii-charinfo.bin",
   "name": "Luigi - Tennis",
   "uuid": [
-    20,
-    62,
-    249,
-    136,
-    130,
-    116,
-    122,
+    25,
+    235,
+    24,
+    30,
+    215,
+    125,
+    50,
     0,
     0,
     0

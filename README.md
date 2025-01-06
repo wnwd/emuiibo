@@ -7,3 +7,5 @@
 生成工具使用：https://github.com/Slluxx/AmiiboGenerator
 
 数据来源API：https://amiiboapi.com/api/amiibo/
+
+数据来源API仓库：https://github.com/N3evin/AmiiboAPI
